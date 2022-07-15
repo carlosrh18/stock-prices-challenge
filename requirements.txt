@@ -1,0 +1,4 @@
+ansiwrap==0.8.4
+console-menu==0.7.1
+six==1.16.0
+textwrap3==0.9.2
